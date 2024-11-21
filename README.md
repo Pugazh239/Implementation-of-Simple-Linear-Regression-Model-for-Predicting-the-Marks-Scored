@@ -21,9 +21,9 @@ Program to implement the simple linear regression model for predicting the marks
 Developed by: Pugazh sozhan.A
 RegisterNumber: 24000166 
 */
-```
 
-## Output:
+
+Output:
 ![Screenshot 2024-11-21 092240](https://github.com/user-attachments/assets/1fe2461d-3679-4009-aaf4-0bffa5ea95a7)
 ![image](https://github.com/user-attachments/assets/ffaf76d5-36cb-4a91-af28-0caf93f497f1)
 
